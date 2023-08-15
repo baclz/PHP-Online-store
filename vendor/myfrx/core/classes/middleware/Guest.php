@@ -1,0 +1,16 @@
+<?php
+
+
+namespace myfrx\middleware;
+
+
+class Guest
+{
+
+    public function handle()
+    {
+        if (check_auth()) {
+            redirect('/');
+        }
+    }
+}
