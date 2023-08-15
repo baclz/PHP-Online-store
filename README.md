@@ -1,1 +1,1 @@
-<h2 align="center">In this project - an online gadget store with an admin panel, adaptive design, a shopping cart, user registration and authorization</h2>
+<h2 align="center">Hello, I have created an online store in PHP, HTML, CSS, JS, MySQL with responsive design.</h2>
