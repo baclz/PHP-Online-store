@@ -1,0 +1,1 @@
+<h2 align="center">In this project - an online gadget store with an admin panel, adaptive design, a shopping cart, user registration and authorization</h2>
